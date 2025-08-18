@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+
+# .doc, .docx or .docm
+*.doc*
+# .dot, .dotx or .dotm
+*.dot*
